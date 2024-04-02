@@ -1,9 +1,5 @@
-/**
-@mainpage EPL232 HomeWork4 GroupProject TEAM 1
+@mainpage EPL232 HomeWork4 GroupProject TEAM 1 \n
 @author Sotiris Rafail Meletiou AM941797
-@author Michalis Fykiris AK767066
-
-                                                                        |Group Project Homework 4 TEAM 1|
 
 @license Copyright (C) 1992-1993 Jean-loup Gailly This is free software; you can redistribute it and/ormodify it under the terms of the GNU General Public License, see the file COPYING
 
@@ -77,5 +73,3 @@ SlowMotion : make a wav file playing in slow motion \n
 
 Only one function can be called a time.
 Every Function starts by reading the header of the wav file and the sound data of the wav (data after the 44 bytes of the header).Then they create the new file that the modified data will go to by adding infornt of the original name the name of the process that we chose.Then starts the modification of the sound data depending on the chosen process and saves all the altered data inside the new file that was made
-
-**/
